@@ -1,0 +1,1937 @@
+[
+  {
+    "frame_index": 0,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.7722,
+        "bbox": [
+          44,
+          346,
+          203,
+          671
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.7394,
+        "bbox": [
+          157,
+          224,
+          538,
+          954
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 5,
+    "detections": [
+      {
+        "label": "person",
+        "confidence": 0.7764,
+        "bbox": [
+          160,
+          227,
+          540,
+          955
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 10,
+    "detections": [
+      {
+        "label": "person",
+        "confidence": 0.7852,
+        "bbox": [
+          160,
+          214,
+          539,
+          952
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 15,
+    "detections": [
+      {
+        "label": "person",
+        "confidence": 0.9226,
+        "bbox": [
+          158,
+          210,
+          539,
+          954
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 20,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.7015,
+        "bbox": [
+          52,
+          342,
+          216,
+          672
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.8969,
+        "bbox": [
+          161,
+          208,
+          538,
+          956
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 25,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.5769,
+        "bbox": [
+          35,
+          340,
+          218,
+          672
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.6259,
+        "bbox": [
+          149,
+          203,
+          539,
+          946
+        ]
+      },
+      {
+        "label": "cat",
+        "confidence": 0.5246,
+        "bbox": [
+          239,
+          401,
+          450,
+          562
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 30,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.6167,
+        "bbox": [
+          53,
+          340,
+          218,
+          673
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.593,
+        "bbox": [
+          146,
+          200,
+          539,
+          945
+        ]
+      },
+      {
+        "label": "cat",
+        "confidence": 0.5083,
+        "bbox": [
+          241,
+          401,
+          453,
+          564
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 35,
+    "detections": [
+      {
+        "label": "person",
+        "confidence": 0.9321,
+        "bbox": [
+          152,
+          200,
+          539,
+          953
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 40,
+    "detections": [
+      {
+        "label": "person",
+        "confidence": 0.9304,
+        "bbox": [
+          151,
+          200,
+          539,
+          952
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 45,
+    "detections": [
+      {
+        "label": "person",
+        "confidence": 0.8967,
+        "bbox": [
+          148,
+          200,
+          538,
+          953
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 50,
+    "detections": [
+      {
+        "label": "person",
+        "confidence": 0.6573,
+        "bbox": [
+          147,
+          198,
+          539,
+          953
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 55,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.5551,
+        "bbox": [
+          5,
+          339,
+          214,
+          682
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 60,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.5956,
+        "bbox": [
+          4,
+          338,
+          215,
+          684
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.8339,
+        "bbox": [
+          143,
+          196,
+          539,
+          955
+        ]
+      },
+      {
+        "label": "cat",
+        "confidence": 0.5473,
+        "bbox": [
+          238,
+          398,
+          461,
+          571
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 65,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.6242,
+        "bbox": [
+          3,
+          336,
+          215,
+          684
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.7768,
+        "bbox": [
+          142,
+          195,
+          539,
+          956
+        ]
+      },
+      {
+        "label": "cat",
+        "confidence": 0.6303,
+        "bbox": [
+          238,
+          397,
+          463,
+          570
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 70,
+    "detections": [
+      {
+        "label": "person",
+        "confidence": 0.7721,
+        "bbox": [
+          143,
+          191,
+          539,
+          957
+        ]
+      },
+      {
+        "label": "cat",
+        "confidence": 0.6393,
+        "bbox": [
+          239,
+          397,
+          465,
+          570
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 75,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.5139,
+        "bbox": [
+          12,
+          333,
+          216,
+          686
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.7411,
+        "bbox": [
+          142,
+          189,
+          539,
+          957
+        ]
+      },
+      {
+        "label": "cat",
+        "confidence": 0.6646,
+        "bbox": [
+          243,
+          397,
+          469,
+          573
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 80,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.7204,
+        "bbox": [
+          5,
+          333,
+          219,
+          687
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.7984,
+        "bbox": [
+          141,
+          183,
+          540,
+          960
+        ]
+      },
+      {
+        "label": "cat",
+        "confidence": 0.6151,
+        "bbox": [
+          246,
+          394,
+          471,
+          574
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 85,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.6759,
+        "bbox": [
+          8,
+          330,
+          222,
+          687
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.808,
+        "bbox": [
+          146,
+          183,
+          538,
+          957
+        ]
+      },
+      {
+        "label": "cat",
+        "confidence": 0.6526,
+        "bbox": [
+          249,
+          392,
+          476,
+          574
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 90,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.6431,
+        "bbox": [
+          28,
+          329,
+          227,
+          687
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.7552,
+        "bbox": [
+          142,
+          176,
+          538,
+          959
+        ]
+      },
+      {
+        "label": "cat",
+        "confidence": 0.6382,
+        "bbox": [
+          250,
+          392,
+          479,
+          575
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 95,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.5956,
+        "bbox": [
+          32,
+          328,
+          229,
+          687
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.59,
+        "bbox": [
+          105,
+          176,
+          539,
+          958
+        ]
+      },
+      {
+        "label": "cat",
+        "confidence": 0.5891,
+        "bbox": [
+          250,
+          391,
+          485,
+          575
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 100,
+    "detections": [
+      {
+        "label": "person",
+        "confidence": 0.5079,
+        "bbox": [
+          20,
+          177,
+          539,
+          939
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 105,
+    "detections": [
+      {
+        "label": "dog",
+        "confidence": 0.6559,
+        "bbox": [
+          13,
+          325,
+          231,
+          688
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 110,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.6718,
+        "bbox": [
+          260,
+          386,
+          497,
+          574
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.5764,
+        "bbox": [
+          13,
+          321,
+          232,
+          688
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 115,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.6178,
+        "bbox": [
+          256,
+          385,
+          503,
+          575
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.6335,
+        "bbox": [
+          145,
+          163,
+          539,
+          960
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.6797,
+        "bbox": [
+          13,
+          318,
+          235,
+          688
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 120,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.5891,
+        "bbox": [
+          262,
+          381,
+          507,
+          575
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.7221,
+        "bbox": [
+          147,
+          159,
+          537,
+          959
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 125,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.5313,
+        "bbox": [
+          267,
+          379,
+          511,
+          573
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.7663,
+        "bbox": [
+          126,
+          159,
+          537,
+          957
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 130,
+    "detections": [
+      {
+        "label": "person",
+        "confidence": 0.6323,
+        "bbox": [
+          97,
+          165,
+          535,
+          955
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 135,
+    "detections": [
+      {
+        "label": "chair",
+        "confidence": 0.5039,
+        "bbox": [
+          30,
+          521,
+          396,
+          938
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5931,
+        "bbox": [
+          43,
+          169,
+          538,
+          954
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 140,
+    "detections": [
+      {
+        "label": "chair",
+        "confidence": 0.5943,
+        "bbox": [
+          30,
+          521,
+          397,
+          940
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.59,
+        "bbox": [
+          36,
+          159,
+          539,
+          954
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 145,
+    "detections": [
+      {
+        "label": "chair",
+        "confidence": 0.6762,
+        "bbox": [
+          30,
+          521,
+          397,
+          946
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 150,
+    "detections": [
+      {
+        "label": "chair",
+        "confidence": 0.5881,
+        "bbox": [
+          30,
+          522,
+          400,
+          950
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 155,
+    "detections": [
+      {
+        "label": "chair",
+        "confidence": 0.7012,
+        "bbox": [
+          28,
+          522,
+          401,
+          956
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 160,
+    "detections": [
+      {
+        "label": "chair",
+        "confidence": 0.738,
+        "bbox": [
+          28,
+          525,
+          402,
+          959
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 165,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.5275,
+        "bbox": [
+          281,
+          368,
+          537,
+          608
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6873,
+        "bbox": [
+          28,
+          527,
+          406,
+          959
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 170,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.6346,
+        "bbox": [
+          282,
+          368,
+          537,
+          595
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6343,
+        "bbox": [
+          27,
+          529,
+          407,
+          958
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.6332,
+        "bbox": [
+          61,
+          169,
+          539,
+          956
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 175,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.5993,
+        "bbox": [
+          284,
+          374,
+          538,
+          602
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6928,
+        "bbox": [
+          25,
+          535,
+          410,
+          959
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 180,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.5903,
+        "bbox": [
+          283,
+          378,
+          538,
+          604
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.5707,
+        "bbox": [
+          21,
+          537,
+          409,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.571,
+        "bbox": [
+          10,
+          310,
+          258,
+          724
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 185,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.656,
+        "bbox": [
+          285,
+          380,
+          538,
+          611
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6638,
+        "bbox": [
+          20,
+          542,
+          411,
+          958
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.5834,
+        "bbox": [
+          9,
+          314,
+          259,
+          729
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 190,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.69,
+        "bbox": [
+          283,
+          381,
+          539,
+          612
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6722,
+        "bbox": [
+          18,
+          546,
+          414,
+          958
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 195,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.7654,
+        "bbox": [
+          283,
+          381,
+          540,
+          617
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6328,
+        "bbox": [
+          17,
+          545,
+          414,
+          957
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 200,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.6872,
+        "bbox": [
+          288,
+          384,
+          539,
+          622
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6845,
+        "bbox": [
+          17,
+          548,
+          417,
+          957
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5282,
+        "bbox": [
+          13,
+          144,
+          540,
+          942
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 205,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.8048,
+        "bbox": [
+          291,
+          387,
+          539,
+          624
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6821,
+        "bbox": [
+          15,
+          549,
+          420,
+          958
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5022,
+        "bbox": [
+          18,
+          147,
+          539,
+          948
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 210,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.7495,
+        "bbox": [
+          291,
+          388,
+          539,
+          627
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6819,
+        "bbox": [
+          15,
+          553,
+          423,
+          958
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.5642,
+        "bbox": [
+          8,
+          326,
+          260,
+          755
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5093,
+        "bbox": [
+          15,
+          140,
+          539,
+          943
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 215,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.5742,
+        "bbox": [
+          293,
+          391,
+          539,
+          634
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6327,
+        "bbox": [
+          13,
+          559,
+          423,
+          954
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5371,
+        "bbox": [
+          20,
+          140,
+          540,
+          947
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 220,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.5917,
+        "bbox": [
+          297,
+          390,
+          539,
+          645
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6611,
+        "bbox": [
+          13,
+          561,
+          424,
+          953
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.7498,
+        "bbox": [
+          12,
+          333,
+          267,
+          762
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 225,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.6935,
+        "bbox": [
+          296,
+          390,
+          539,
+          642
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6497,
+        "bbox": [
+          11,
+          562,
+          425,
+          955
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5424,
+        "bbox": [
+          155,
+          145,
+          539,
+          944
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 230,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.7362,
+        "bbox": [
+          296,
+          394,
+          539,
+          652
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6139,
+        "bbox": [
+          10,
+          563,
+          426,
+          956
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5978,
+        "bbox": [
+          157,
+          144,
+          539,
+          946
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 235,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.751,
+        "bbox": [
+          296,
+          395,
+          539,
+          656
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6197,
+        "bbox": [
+          9,
+          566,
+          427,
+          956
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 240,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.8035,
+        "bbox": [
+          297,
+          396,
+          539,
+          655
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.5821,
+        "bbox": [
+          8,
+          566,
+          427,
+          955
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.5394,
+        "bbox": [
+          14,
+          338,
+          265,
+          773
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5347,
+        "bbox": [
+          163,
+          144,
+          539,
+          942
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 245,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.861,
+        "bbox": [
+          297,
+          396,
+          539,
+          653
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6394,
+        "bbox": [
+          7,
+          567,
+          427,
+          957
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.6005,
+        "bbox": [
+          21,
+          338,
+          264,
+          774
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5005,
+        "bbox": [
+          163,
+          141,
+          539,
+          939
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 250,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.8522,
+        "bbox": [
+          298,
+          398,
+          539,
+          656
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6069,
+        "bbox": [
+          5,
+          566,
+          425,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.5534,
+        "bbox": [
+          28,
+          338,
+          265,
+          776
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.717,
+        "bbox": [
+          161,
+          135,
+          540,
+          947
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 255,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.8192,
+        "bbox": [
+          298,
+          398,
+          539,
+          656
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6534,
+        "bbox": [
+          4,
+          567,
+          426,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.6875,
+        "bbox": [
+          18,
+          337,
+          265,
+          778
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5441,
+        "bbox": [
+          154,
+          139,
+          540,
+          945
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 260,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.7859,
+        "bbox": [
+          298,
+          395,
+          539,
+          655
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.6437,
+        "bbox": [
+          4,
+          568,
+          428,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.6973,
+        "bbox": [
+          24,
+          337,
+          266,
+          780
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5633,
+        "bbox": [
+          151,
+          137,
+          540,
+          947
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 265,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.7483,
+        "bbox": [
+          300,
+          397,
+          539,
+          657
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.7018,
+        "bbox": [
+          4,
+          569,
+          432,
+          959
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.6272,
+        "bbox": [
+          187,
+          200,
+          540,
+          951
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.7378,
+        "bbox": [
+          40,
+          337,
+          267,
+          782
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 270,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.7314,
+        "bbox": [
+          302,
+          397,
+          539,
+          657
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.7142,
+        "bbox": [
+          4,
+          569,
+          435,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.636,
+        "bbox": [
+          44,
+          336,
+          266,
+          785
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.614,
+        "bbox": [
+          53,
+          128,
+          540,
+          952
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 275,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.6059,
+        "bbox": [
+          305,
+          398,
+          539,
+          655
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.7442,
+        "bbox": [
+          4,
+          570,
+          438,
+          959
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5059,
+        "bbox": [
+          171,
+          126,
+          540,
+          941
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.6902,
+        "bbox": [
+          43,
+          336,
+          269,
+          790
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 280,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.7139,
+        "bbox": [
+          310,
+          398,
+          540,
+          660
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.7004,
+        "bbox": [
+          4,
+          571,
+          443,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.7066,
+        "bbox": [
+          30,
+          335,
+          276,
+          797
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.5479,
+        "bbox": [
+          96,
+          128,
+          540,
+          948
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 285,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.8002,
+        "bbox": [
+          314,
+          400,
+          540,
+          666
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.7916,
+        "bbox": [
+          4,
+          574,
+          445,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.5415,
+        "bbox": [
+          31,
+          335,
+          278,
+          801
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.6383,
+        "bbox": [
+          86,
+          124,
+          540,
+          951
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 290,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.7795,
+        "bbox": [
+          315,
+          400,
+          539,
+          672
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.8235,
+        "bbox": [
+          4,
+          577,
+          448,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.7513,
+        "bbox": [
+          23,
+          336,
+          284,
+          805
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.7126,
+        "bbox": [
+          181,
+          119,
+          539,
+          945
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 295,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.7641,
+        "bbox": [
+          318,
+          400,
+          539,
+          677
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.7034,
+        "bbox": [
+          4,
+          581,
+          451,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.6074,
+        "bbox": [
+          37,
+          338,
+          286,
+          808
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.6739,
+        "bbox": [
+          182,
+          118,
+          539,
+          944
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 300,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.8246,
+        "bbox": [
+          318,
+          400,
+          539,
+          677
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.7974,
+        "bbox": [
+          4,
+          584,
+          452,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.5045,
+        "bbox": [
+          24,
+          339,
+          286,
+          814
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.7343,
+        "bbox": [
+          182,
+          118,
+          539,
+          946
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 305,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.7875,
+        "bbox": [
+          321,
+          399,
+          539,
+          684
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.7442,
+        "bbox": [
+          3,
+          585,
+          454,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.5266,
+        "bbox": [
+          32,
+          334,
+          286,
+          819
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.6483,
+        "bbox": [
+          150,
+          119,
+          539,
+          947
+        ]
+      }
+    ]
+  },
+  {
+    "frame_index": 310,
+    "detections": [
+      {
+        "label": "cat",
+        "confidence": 0.7096,
+        "bbox": [
+          323,
+          398,
+          539,
+          691
+        ]
+      },
+      {
+        "label": "chair",
+        "confidence": 0.5217,
+        "bbox": [
+          3,
+          587,
+          455,
+          959
+        ]
+      },
+      {
+        "label": "dog",
+        "confidence": 0.6608,
+        "bbox": [
+          33,
+          329,
+          287,
+          820
+        ]
+      },
+      {
+        "label": "person",
+        "confidence": 0.7064,
+        "bbox": [
+          187,
+          115,
+          539,
+          947
+        ]
+      }
+    ]
+  }
+]
