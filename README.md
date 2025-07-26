@@ -11,4 +11,5 @@ counts total objects per class, identifies the frame with maximum class diversit
 ## Pre-requisites:- Rename the short video to 'input_video.mp4' in the current directory, and create two folders: 'output_video' and 'output_images' in the directory you run your code from
 
 raw file - Detection_Summary_Engine.py
+
 download pdf to view ipynb output
