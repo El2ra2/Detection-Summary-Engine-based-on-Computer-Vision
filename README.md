@@ -8,6 +8,10 @@ The detection engine uses a pre-trained object detection model, yolov10, process
 
 counts total objects per class, identifies the frame with maximum class diversity, visualizes object frequency with a bar chart, and finally saves annonated frames and outputs a compiled output video.
 
+
+https://github.com/user-attachments/assets/f7f12bbf-eb9d-439a-baf5-16184a63333e
+
+
 ## Pre-requisites:- Rename the short video to 'input_video.mp4' in the current directory, and create two folders: 'output_video' and 'output_images' in the directory you run your code from
 
 raw file - Detection_Summary_Engine.py
